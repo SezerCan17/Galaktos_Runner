@@ -8129,6 +8129,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_9
@@ -8139,7 +8143,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -9421,6 +9425,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_7
@@ -9431,7 +9439,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -25188,6 +25196,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_3
@@ -25198,7 +25210,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -30006,13 +30018,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_2
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -35214,13 +35230,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_10
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -37147,6 +37167,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_11
@@ -37157,7 +37181,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -41628,13 +41652,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -49320,13 +49348,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_6
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -56728,13 +56760,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_8
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -58317,6 +58353,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_1
@@ -58327,7 +58367,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -68035,6 +68075,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_5
@@ -68045,7 +68089,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -75197,13 +75241,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_12
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
@@ -84983,13 +85031,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -74.841
       objectReference: {fileID: 0}
+    - target: {fileID: 5005882082916205934, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_Name
       value: LowPoly - FirTree B_4
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_TagString
-      value: Obstacle
+      value: Untagged
       objectReference: {fileID: 0}
     - target: {fileID: 7643030851168358856, guid: fad071ba97598e94ea35c20e57141ba6, type: 3}
       propertyPath: m_NavMeshLayer
